@@ -19,3 +19,11 @@ Learning how to use github
 4. another 
 
 5. one more thing
+
+Recap
+  - click git
+  - make new branch in R
+  - make change
+  - save
+  - commit + add comment
+  - push
