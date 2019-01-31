@@ -4,26 +4,20 @@ Learning how to use github
 
 #testing readme
 
-1. stage the file
+1. Click the Git tab in environment
+
+2. Make a new branch (far right)
+
+3. Make changes to file
+
+4. stage the file
   - at the top of the environment, there is a Git Tab
   - you can chose to stage by checking the box
 
-2. commit the file
+5. SAVE
+
+6. commit the file
   - click commit button then fill in a short meaningful comment
   - **if you don't save it wont update!!!
 
-3. push
-  - press the push button...
-  -more text
-  
-4. another 
-
-5. one more thing
-
-Recap
-  - click git
-  - make new branch in R
-  - make change
-  - save
-  - commit + add comment
-  - push
+7. You can now push it online
