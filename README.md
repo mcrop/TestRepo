@@ -10,5 +10,5 @@ Learning how to use github
 
 2. commit the file
   - click commit button then fill in a short meaningful comment
-  
+  - **if you don't save it wont update!!!
   
