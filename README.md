@@ -1,6 +1,6 @@
 # TestRepo
 Learning how to use github
-
+#Use this https://happygitwithr.com/rstudio-git-github.html
 
 #testing readme
 
