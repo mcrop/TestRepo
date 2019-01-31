@@ -14,7 +14,7 @@ Learning how to use github
   - at the top of the environment, there is a Git Tab
   - you can chose to stage by checking the box
 
-5. SAVE
+5. SAVE and check the STAGE check box
 
 6. commit the file
   - click commit button then fill in a short meaningful comment
